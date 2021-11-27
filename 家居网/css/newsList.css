@@ -1,0 +1,35 @@
+.main .guide .menu .layui-menu li{
+    height: 100px;
+    line-height: 90px;
+    width: 260px;
+    background-color:#f2f2f2;
+    color: #252525;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 5px;
+}
+.main .guide .list-news{
+    width: 920px;
+}
+.main .guide .list-news .hots ul li{
+    margin: auto;
+    width: 910px;
+    height: 124px;
+    border-bottom: 2px solid #f3f3f3;
+}
+.main .guide .list-news .hots ul li h5{
+    margin-top: 30px;
+    font-size: 16px;
+}
+.main .guide .list-news .hots ul li a{
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 12px;
+}
+.main .guide .list-news .hots ul li p{
+    margin-top: 15px;
+    font-size: 14px;
+}
+.main .guide .list-news .demo{
+    margin-left: 300px;
+}

@@ -1,0 +1,62 @@
+/* main的shop部分开始 */
+/* .main{
+    height: 732px;
+} */
+.main .guide{
+    margin-top: 20px;
+    /* height: 620px; */
+}
+.main .guide .menu{
+    width: 260px;
+    height: 620px;
+}
+.main .guide .menu .layui-menu li{
+    height: 50px;
+    line-height: 40px;
+    width: 260px;
+    background-color:#f2f2f2;
+    color: #252525;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 5px;
+}
+.main .guide .shop{
+    float: right;
+    width: 928px;
+    
+}
+.main .guide .shop .service{
+    float: left;
+}
+.main .guide .shop .service ul li{
+    float: left;
+    width: 290px;
+    height: 330px;
+    border: 2px solid #f3f3f3;
+    margin-right: 11px;
+    margin-bottom: 20px;
+}
+.main .guide .shop .service ul li img{
+    width: 250px;
+    height: 250px;
+    margin-top: 15px;
+    margin-left: 20px;
+}
+.main .guide .shop .service ul li h6{
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.main .guide .shop .service ul li a{
+    font-size: 12px;
+    margin-left: 20px;
+    margin-top: 10px;
+    color: #e0dada;
+}
+.main .guide .shop .service ul li a span{
+    color: #3f3e45;
+}
+.main .guide .shop .demo{
+    margin-left: 300px;
+}
+/* main的shop部分开始 */

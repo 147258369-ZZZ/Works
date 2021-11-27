@@ -1,0 +1,44 @@
+/* main的map部分开始 */
+/* .main{
+    height: 732px;
+}
+.main .guide{
+    margin-top: 20px;
+    height: 620px;
+}
+.main .guide .menu{
+    width: 260px;
+    height: 620px;
+} */
+.main .guide .menu .layui-menu li{
+    height: 50px;
+    line-height: 40px;
+    width: 260px;
+    background-color:#f2f2f2;
+    color: #252525;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 5px;
+}
+.main .guide .map img{
+    margin-top: 5px;
+    width: 100%;
+}
+.main .guide .map .card{
+    margin-top: 18px;
+    height: 215px;
+    border: 2px solid #eeeeee;
+}
+.main .guide .map .card ul{
+    margin-top: 10px;
+}
+.main .guide .map .card ul li{
+    color: #adadad;
+    font-size: 14px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.main .guide .map .card ul li span{
+    color:#818388;
+}
+/* main的map部分结束 */
